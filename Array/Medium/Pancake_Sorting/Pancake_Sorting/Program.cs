@@ -14,7 +14,11 @@ namespace Pancake_Sorting
             var input = new int[] { 3, 2, 4, 1 };
             var output = PancakeSort(input);
         }
-            
+
+        /// <summary>
+        /// Time Complexity: O(N^2)
+        /// Space Complexity => O(N)
+        /// </summary>
         private static IList<int> PancakeSort(int[] A)
         {
             var result = new List<int>();
