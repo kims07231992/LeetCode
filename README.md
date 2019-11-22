@@ -9,3 +9,8 @@
 * [Pancake Sorting](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Pancake_Sorting)
 * [Find All Duplicates in an Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Find_All_Duplicates_in_an_Array)
 * [Max Area of Island](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Max_Area_of_Island)
+
+
+### Linked List
+
+* [Next Greater Node In Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Next_Greater_Node_In_Linked_List)
