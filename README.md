@@ -11,6 +11,11 @@
 * [Max Area of Island](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Max_Area_of_Island)
 
 
+### Array
+
+* [Group the People Given the Group Size They Belong To](https://github.com/kims07231992/LeetCode/tree/master/Greedy/Medium/Group_the_People_Given_the_Group_Size)
+
+
 ### Linked List
 
 * [Next Greater Node In Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Next_Greater_Node_In_Linked_List)

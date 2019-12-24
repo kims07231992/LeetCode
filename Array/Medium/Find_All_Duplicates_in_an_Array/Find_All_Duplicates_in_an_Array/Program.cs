@@ -18,7 +18,7 @@ namespace Find_All_Duplicates_in_an_Array
 
         /// <summary>
         /// Time Complexity: O(N) where N is length of nums
-        /// Space Complexity => X
+        /// Space Complexity: O(N) since Dictionary is equal to HashMap
         /// </summary>
         private static IList<int> FindDuplicates(int[] nums)
         {
