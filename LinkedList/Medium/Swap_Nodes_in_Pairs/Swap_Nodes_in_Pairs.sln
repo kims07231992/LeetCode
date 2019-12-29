@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap_Nodes_in_Pairs", "Swap_Nodes_in_Pairs\Swap_Nodes_in_Pairs.csproj", "{C2C72F5E-6A3A-48E4-808F-23673A3176AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2C72F5E-6A3A-48E4-808F-23673A3176AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C72F5E-6A3A-48E4-808F-23673A3176AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C72F5E-6A3A-48E4-808F-23673A3176AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C72F5E-6A3A-48E4-808F-23673A3176AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F7478D-D69F-4583-AF49-E86899E00CAE}
+	EndGlobalSection
+EndGlobal
