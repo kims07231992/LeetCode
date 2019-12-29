@@ -21,3 +21,4 @@
 * [Next Greater Node In Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Next_Greater_Node_In_Linked_List)
 * [Add Two Numbers II](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Add_Two_Numbers_II)
 * [Odd Even Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Odd_Even_Linked_List)
+* [Split Linked List in Parts](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Split_Linked_List_in_Parts)
