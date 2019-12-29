@@ -4,15 +4,24 @@ using System.Linq;
 
 namespace Group_the_People_Given_the_Group_Size
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
+        {
+            Run();
+        }
+
+        private static void Run()
         {
             var groupSizes = new int[] { 3, 3, 3, 3, 3, 1, 3 };
             var result = GroupThePeople(groupSizes);
         }
 
-        public static IList<IList<int>> GroupThePeople(int[] groupSizes)
+        /// <summary>
+        /// Time Complexity: O(N) where N is length of nums
+        /// Space Complexity => X
+        /// </summary>
+        private static IList<IList<int>> GroupThePeople(int[] groupSizes)
         {
             var groupDictionary = new Dictionary<int, List<int>>();
             var result = new List<List<int>>();
