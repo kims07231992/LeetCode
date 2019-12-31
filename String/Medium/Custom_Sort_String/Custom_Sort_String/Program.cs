@@ -16,6 +16,10 @@ namespace Custom_Sort_String
             var result = CustomSortString(S, T);
         }
 
+        /// <summary>
+        /// Time Complexity: O(S + T) where S is length of S and T is length of T
+        /// Space Complexity: O(K) where K is 26
+        /// </summary>
         public static string CustomSortString(string S, string T)
         {
             int[] count = new int[26];
