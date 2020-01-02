@@ -29,4 +29,5 @@
 
 * [Custom Sort String](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Custom_Sort_String)
 * [Find and Replace Pattern](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Find_and_Replace_Pattern)
+* [Generate Parentheses](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Generate_Parentheses)	
 * [Minimum Remove to Make Valid Parentheses](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Minimum_Remove_to_Make_Valid)
