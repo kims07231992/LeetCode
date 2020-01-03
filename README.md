@@ -27,6 +27,11 @@
 
 ### String
 
+* [Minimum Add to Make Parentheses Valid](https://github.com/kims07231992/LeetCode/tree/master/Stack/Medium/Minimum_Add_to_Make_Parentheses_Valid)
+
+
+### String
+
 * [Custom Sort String](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Custom_Sort_String)
 * [Find and Replace Pattern](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Find_and_Replace_Pattern)
 * [Generate Parentheses](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Generate_Parentheses)	
