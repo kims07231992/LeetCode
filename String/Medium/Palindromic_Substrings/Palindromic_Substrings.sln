@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromic_Substrings", "Palindromic_Substrings\Palindromic_Substrings.csproj", "{C28C6056-3245-43BE-9EE7-34FE683DED4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C28C6056-3245-43BE-9EE7-34FE683DED4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28C6056-3245-43BE-9EE7-34FE683DED4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28C6056-3245-43BE-9EE7-34FE683DED4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28C6056-3245-43BE-9EE7-34FE683DED4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A06B757-1B7D-44A8-8348-8C8451F52A85}
+	EndGlobalSection
+EndGlobal
