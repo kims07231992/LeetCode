@@ -25,9 +25,10 @@
 * [Swap Nodes in Pairs](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Swap_Nodes_in_Pairs)
 
 
-### String
+### Stack & Queue
 
-* [Minimum Add to Make Parentheses Valid](https://github.com/kims07231992/LeetCode/tree/master/Stack/Medium/Minimum_Add_to_Make_Parentheses_Valid)
+* [Daily Temperatures](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Daily_Temperatures)
+* [Minimum Add to Make Parentheses Valid](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Minimum_Add_to_Make_Parentheses_Valid)
 
 
 ### String
