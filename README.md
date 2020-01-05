@@ -44,6 +44,7 @@
 ### Tree
   
 * [All Elements in Two Binary Search Trees](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/All_Elements_in_Two_Binary_Search_Trees)
+* [Construct Binary Search Tree from Preorder Traversal](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Construct_BST_from_Preorder_Traversal)
 * [Deepest Leaves Sum](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Deepest_Leaves_Sum)
 * [Insert into a Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Insert_into_a_Binary_Search_Tree)
 * [Maximum Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Maximum_Binary_Tree)
