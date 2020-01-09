@@ -7,10 +7,6 @@ namespace Partition_Array_for_Maximum_Sum
         private static void Main(string[] args)
         {
             Run();
-
-            var item = new int[10, 10];
-            var length = item.Length;   
-
         }
 
         private static void Run()
@@ -21,6 +17,10 @@ namespace Partition_Array_for_Maximum_Sum
             var result = MaxSumAfterPartitioning(A, K);
         }
 
+        /// <summary>
+        /// Time Complexity: O(N * K) where N is length of A and K is size of partition
+        /// Space Complexity: O(N)
+        /// </summary>
         private static int MaxSumAfterPartitioning(int[] A, int K)
         {
             var n = A.Length;
