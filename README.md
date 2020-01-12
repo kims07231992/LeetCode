@@ -11,6 +11,10 @@
 * [Max Area of Island](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Max_Area_of_Island)
 
 
+### Bit Manipulation
+* [Counting Bits](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/Counting_Bits)
+
+
 ### Graph
 
 * [Count Servers that Communicate](https://github.com/kims07231992/LeetCode/tree/master/Graph/Medium/Count_Servers_that_Communicate)
