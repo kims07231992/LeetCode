@@ -12,7 +12,9 @@
 
 
 ### Bit Manipulation
+
 * [Counting Bits](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/Counting_Bits)
+* [Single Number III](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/Single_Number_III)
 * [XOR Queries of a Subarray](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/XOR_Queries_of_a_Subarray)
 
 
