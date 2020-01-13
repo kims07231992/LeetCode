@@ -13,6 +13,7 @@
 
 ### Bit Manipulation
 * [Counting Bits](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/Counting_Bits)
+* [XOR Queries of a Subarray](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/XOR_Queries_of_a_Subarray)
 
 
 ### Graph
