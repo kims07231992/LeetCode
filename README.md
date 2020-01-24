@@ -33,6 +33,12 @@
 * [Group the People Given the Group Size They Belong To](https://github.com/kims07231992/LeetCode/tree/master/Greedy/Medium/Group_the_People_Given_the_Group_Size)
 
 
+### Heap
+
+* [K Closest Points to Origin](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/K_Closest_Points_to_Origin)
+* [Top K Frequent Elements](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Top_K_Frequent_Elements)
+
+
 ### Linked List
 
 * [Next Greater Node In Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Next_Greater_Node_In_Linked_List)
