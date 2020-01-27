@@ -68,6 +68,7 @@
 * [Binary Tree Inorder Traversal](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Binary_Tree_Inorder_Traversal)
 * [Daily Temperatures](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Daily_Temperatures)
 * [Minimum Add to Make Parentheses Valid](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Minimum_Add_to_Make_Parentheses_Valid)
+* [Valid Parentheses](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Easy/Valid_Parentheses)
 
 
 ### String
