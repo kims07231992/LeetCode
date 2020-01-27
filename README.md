@@ -56,6 +56,11 @@
 * [Swap Nodes in Pairs](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Swap_Nodes_in_Pairs)
 
 
+### Math
+
+* [String to Integer (atoi)](https://github.com/kims07231992/LeetCode/tree/master/Math/Medium/String_to_Integer)
+
+
 ### Stack & Queue
 
 * [Binary Tree Inorder Traversal](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Binary_Tree_Inorder_Traversal)
@@ -71,7 +76,6 @@
 * [Longest Palindromic Substring](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Longest_Palindromic_Substring)	
 * [Minimum Remove to Make Valid Parentheses](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Minimum_Remove_to_Make_Valid)
 * [Palindromic Substrings](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Palindromic_Substrings)
-* [String to Integer (atoi)](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/String_to_Integer)
 
 
 ### Tree
