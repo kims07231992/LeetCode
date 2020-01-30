@@ -36,6 +36,7 @@
 ### Hash Table
 
 * [Two Sum](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Two_Sum)
+* [Valid Sudoku](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Valid_Sudoku)
 
 
 ### Heap
