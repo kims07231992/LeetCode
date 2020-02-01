@@ -71,6 +71,11 @@
 * [String to Integer (atoi)](https://github.com/kims07231992/LeetCode/tree/master/Math/Medium/String_to_Integer)
 
 
+### Sort
+
+* [Merge Intervals](https://github.com/kims07231992/LeetCode/tree/master/Sort/Medium/Merge_Intervals)
+
+
 ### Stack & Queue
 
 * [Binary Tree Inorder Traversal](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Binary_Tree_Inorder_Traversal)
