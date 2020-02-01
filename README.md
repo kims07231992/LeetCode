@@ -14,6 +14,7 @@
 ### Backtracking
 
 * [Combination Sum](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Combination_Sum)
+* [Permutations](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Permutations)
 
 
 ### Bit Manipulation
