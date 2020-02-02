@@ -25,6 +25,11 @@
 * [XOR Queries of a Subarray](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/XOR_Queries_of_a_Subarray)
 
 
+### Depth First Search
+
+* [Word Search](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Word_Search)
+
+
 ### Graph
 
 * [Count Servers that Communicate](https://github.com/kims07231992/LeetCode/tree/master/Graph/Medium/Count_Servers_that_Communicate)
