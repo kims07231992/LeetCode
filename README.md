@@ -109,4 +109,5 @@
 * [Insert into a Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Insert_into_a_Binary_Search_Tree)
 * [Maximum Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Maximum_Binary_Tree)
 * [Same Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Same_Tree)
+* [Symmetric Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Symmetric_Tree)
 * [Validate Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Validate_Binary_Search_Tree)
