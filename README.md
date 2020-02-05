@@ -102,7 +102,7 @@
 
 
 ### Tree
-  
+
 * [All Elements in Two Binary Search Trees](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/All_Elements_in_Two_Binary_Search_Trees)
 * [Binary Tree Level Order Traversal](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Binary_Tree_Level_Order_Traversal)
 * [Binary Tree Right Side View](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Binary_Tree_Right_Side_View)
@@ -112,4 +112,5 @@
 * [Maximum Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Maximum_Binary_Tree)
 * [Same Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Same_Tree)
 * [Symmetric Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Symmetric_Tree)
+* [Populating Next Right Pointers in Each Node](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Populating_Next_Right_Pointers)
 * [Validate Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Validate_Binary_Search_Tree)
