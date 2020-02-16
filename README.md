@@ -29,6 +29,7 @@
 ### Breadth First Search
 
 * [Course Schedule](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Course_Schedule)
+* [Course Schedule II](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Course_Schedule_II)
 * [Word Ladder](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Word_Ladder)
 
 
