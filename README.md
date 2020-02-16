@@ -128,6 +128,7 @@
 * [Binary Tree Right Side View](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Binary_Tree_Right_Side_View)
 * [Construct Binary Search Tree from Preorder Traversal](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Construct_BST_from_Preorder_Traversal)
 * [Deepest Leaves Sum](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Deepest_Leaves_Sum)
+* [Diameter of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Diameter_of_Binary_Tree)
 * [Insert into a Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Insert_into_a_Binary_Search_Tree)
 * [Maximum Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Maximum_Binary_Tree)
 * [Same Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Same_Tree)
