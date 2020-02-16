@@ -1,10 +1,17 @@
-import java.util.*; 
+package app;
 
-class Solution {
+import java.util.*;
+
+public class App {
     public static void main(String[] args) {
         run();
     }
 
+
+    /// <summary>
+    /// Time Complexity: O(M * N) where M is number of rows and N is number of columns
+    /// Space Complexity: O(M * N)
+    /// </summary>
     private static void run()
     {
         int[][] matrix = {
