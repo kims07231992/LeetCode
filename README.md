@@ -46,6 +46,7 @@
 ### Dynamic Programming
 
 * [Best Time to Buy and Sell Stock](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Easy/Best_Time_to_Buy_and_Sell_Stock)
+* [Longest Increasing Subsequence](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Medium/Longest_Increasing_Subsequence)
 
 
 ### Graph
