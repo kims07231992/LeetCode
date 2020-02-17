@@ -143,3 +143,4 @@
 ### Online Assessment Amazon
 
 * [Top N Buzzwords](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Top_N_Buzzwords)
+* [Zombie in Matrix](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Zombie_in_Matrix)
