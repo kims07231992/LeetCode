@@ -143,6 +143,7 @@
 ### Online Assessment Amazon
 
 * [Copy List with Random Pointer](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Copy_List_with_Random_Pointer)
+* [Favorite Genres](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Favorite_Genres)
 * [Reorder Data in Log Files](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Reorder_Data_in_Log_Files)
 * [Search a 2D Matrix II](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Search_a_2D_Matrix_II)
 * [Search Suggestions System](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Search_Suggestions_System)
