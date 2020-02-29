@@ -14,8 +14,8 @@ public class App {
     }
 
     /// <summary>
-    /// Time Complexity: O(NlogK) where N is size of given integer num and K is given integer K
-    /// Space Complexity: O(N)
+    /// Time Complexity: O(NlogK) where N is length points and K is given integer K
+    /// Space Complexity: O(K)
     /// </summary>
     private static int[][] kClosest(int[][] points, int K) {        
         int[][] result = new int[K][];
