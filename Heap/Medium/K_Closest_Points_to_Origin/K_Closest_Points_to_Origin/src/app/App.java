@@ -8,31 +8,27 @@ public class App {
     }
 
     private static void run() {
-        int[][] points = new int[][] { { 3, 3 }, { 5, -1 }, { -2, 4 } };
+        int[][] matrix = new int[][] { { 3, 3 }, { 5, -1 }, { -2, 4 } };
         int K = 2;
-        int[][] result = kClosest(points, K);
+        int result = kthSmallest(matrix, K);
     }
 
     /// <summary>
-    /// Time Complexity: O(NlogK) where N is length points and K is given integer K
+    /// Time Complexity: O(NlogZ) where Z is Min(N, K)
     /// Space Complexity: O(K)
     /// </summary>
-    private static int[][] kClosest(int[][] points, int K) {        
-        int[][] result = new int[K][];
-        PriorityQueue<int[]> pq = new PriorityQueue<int[]> // max Heap
-            ((p1, p2) -> p2[0] * p2[0] + p2[1] * p2[1] - p1[0] * p1[0] - p1[1] * p1[1]);
-    
-        for (int i = 0; i < points.length; i++) {            
-            pq.offer(points[i]);
-            
-            if (pq.size() > K)
-                pq.poll();
+    private static int kthSmallest(int[][] matrix, int k) {
+        int n = matrix.length;
+        PriorityQueue<Integer> pq = new PriorityQueue<Integer>((x, y) -> y - x);
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < Math.min(n, k); j++) {
+                pq.offer(matrix[i][j]);
+                
+                if (pq.size() > k)
+                    pq.poll();
+            }
         }
         
-        for (int i = 0; i < K; i++) {
-            result[i] = pq.poll();
-        }
-        
-        return result;
+        return pq.peek();
     }
 }
