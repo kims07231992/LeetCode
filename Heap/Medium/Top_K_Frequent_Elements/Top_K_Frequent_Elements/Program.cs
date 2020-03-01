@@ -24,8 +24,8 @@ namespace Top_K_Frequent_Elements
         private static IList<int> TopKFrequent(int[] nums, int k)
         {
             var result = new List<int>();
-            var sortedCountMap = new SortedList<int, List<int>>(new DescendComparer()); // key: count, Value: list of nums
             var countMap = new Dictionary<int, int>(); // Key: num, Value: count
+            var bucket = new List<int>[nums.Length + 1];
             foreach (int num in nums)
             {
                 if (!countMap.TryAdd(num, 1))
@@ -34,15 +34,20 @@ namespace Top_K_Frequent_Elements
 
             foreach (var count in countMap)
             {
-                if (!sortedCountMap.TryAdd(count.Value, new List<int> { count.Key }))
-                    sortedCountMap[count.Value].Add(count.Key);
+                if (bucket[count.Value] == null)
+                    bucket[count.Value] = new List<int>();
+
+                bucket[count.Value].Add(count.Key);
             }
 
-            foreach (var count in sortedCountMap)
+            for (int i = nums.Length; i >= 0; i--)
             {
-                foreach (var num in count.Value)
+                if (bucket[i] == null)
+                    continue;
+
+                for (int j = 0; j < bucket[i].Count; j++)
                 {
-                    result.Add(num);
+                    result.Add(bucket[i][j]);
                     k--;
 
                     if (k == 0)
@@ -50,16 +55,7 @@ namespace Top_K_Frequent_Elements
                 }
             }
 
-
             return result;
-        }
-
-        private class DescendComparer : IComparer<int>
-        {
-            public int Compare(int x, int y)
-            {
-                return y.CompareTo(x);
-            }
         }
     }
 }
