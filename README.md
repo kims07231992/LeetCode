@@ -149,6 +149,7 @@
 * [Find Pair With Given Sum](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Find_Pair_With_Given_Sum)
 * [Merge Two Sorted Lists](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Merge_Two_Sorted_Lists)
 * [Min Cost to Connect Ropes](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Min_Cost_to_Connect_Ropes)
+* [Optimal Utilization](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Optimal_Utilization)
 * [Path Sum](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Path_Sum)
 * [Reorder Data in Log Files](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Reorder_Data_in_Log_Files)
 * [Rotting Oranges](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Rotting_Oranges)
