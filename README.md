@@ -70,6 +70,7 @@
 
 ### Hash Table
 
+* [Longest Substring Without Repeating Characters](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Longest_Substring_Without_Repeating_Char)
 * [Two Sum](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Two_Sum)
 * [Valid Sudoku](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Valid_Sudoku)
 
