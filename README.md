@@ -17,14 +17,15 @@
 ### Backtracking
 
 * [Combination Sum](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Combination_Sum)
+* [Letter Combinations of a Phone Number](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Letter_Combinations_of_a_Phone_Number)
 * [Permutations](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Permutations)
+* [Subsets](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Subsets)
 
 
 ### Bit Manipulation
 
 * [Counting Bits](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/Counting_Bits)
 * [Single Number III](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/Single_Number_III)
-* [Subsets](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/Subsets)
 * [XOR Queries of a Subarray](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/XOR_Queries_of_a_Subarray)
 
 
