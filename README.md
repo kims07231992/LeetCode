@@ -175,4 +175,5 @@
 
 ### Online Assessment Microsoft
 
+* [Min Moves to Obtain String Without 3 Identical Consecutive Letters](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Microsoft/Min_Moves_3_Consecutive_Letters)
 * [Numbers With Equal Digit Sum](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Microsoft/Numbers_With_Equal_Digit_Sum)
