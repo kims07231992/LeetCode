@@ -171,3 +171,8 @@
 * [Treasure Island II](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Treasure_Island_II)
 * [Two Sum Unique Pairs](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Two_Sum_Unique_Pairs)
 * [Zombie in Matrix](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Amazon/Zombie_in_Matrix)
+
+
+### Online Assessment Microsoft
+
+* [Numbers With Equal Digit Sum](https://github.com/kims07231992/LeetCode/tree/master/Online_Assessment_Microsoft/Numbers_With_Equal_Digit_Sum)
