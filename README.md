@@ -7,6 +7,7 @@
 * [3Sum](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/3Sum)
 * [Container With Most Water](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Container_With_Most_Water)
 * [Find All Duplicates in an Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Find_All_Duplicates_in_an_Array)
+* [Find First and Last Position of Element in Sorted Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Find_First_and_Last_Position_of_Element)
 * [Game of Life](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Game_of_Life)
 * [Max Area of Island](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Max_Area_of_Island)
 * [Pancake Sorting](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Pancake_Sorting)
