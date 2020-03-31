@@ -7,7 +7,6 @@
 * [3Sum](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/3Sum)
 * [Container With Most Water](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Container_With_Most_Water)
 * [Find All Duplicates in an Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Find_All_Duplicates_in_an_Array)
-* [Find First and Last Position of Element in Sorted Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Find_First_and_Last_Position_of_Element)
 * [Game of Life](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Game_of_Life)
 * [Max Area of Island](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Max_Area_of_Island)
 * [Pancake Sorting](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Pancake_Sorting)
@@ -28,6 +27,7 @@
 ### Bit Manipulation
 
 * [Counting Bits](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/Counting_Bits)
+* [Single Number](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Easy/Single_Number)
 * [Single Number III](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/Single_Number_III)
 * [XOR Queries of a Subarray](https://github.com/kims07231992/LeetCode/tree/master/Bit_Manipulation/Medium/XOR_Queries_of_a_Subarray)
 
@@ -151,6 +151,7 @@
 * [Diameter of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Diameter_of_Binary_Tree)
 * [Insert into a Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Insert_into_a_Binary_Search_Tree)
 * [Maximum Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Maximum_Binary_Tree)
+* [Maximum Depth of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Maximum_Depth_of_Binary_Tree)
 * [Same Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Same_Tree)
 * [Symmetric Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Symmetric_Tree)
 * [Populating Next Right Pointers in Each Node](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Populating_Next_Right_Pointers)
