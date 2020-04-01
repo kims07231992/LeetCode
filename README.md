@@ -7,8 +7,10 @@
 * [3Sum](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/3Sum)
 * [Container With Most Water](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Container_With_Most_Water)
 * [Find All Duplicates in an Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Find_All_Duplicates_in_an_Array)
+* [Find All Numbers Disappeared in an Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Easy/Find_All_Numbers_Disappeared_in_an_Array)
 * [Game of Life](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Game_of_Life)
 * [Max Area of Island](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Max_Area_of_Island)
+* [Move Zeroes](https://github.com/kims07231992/LeetCode/tree/master/Array/Easy/Move_Zeroes)
 * [Pancake Sorting](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Pancake_Sorting)
 * [Queens That Can Attack the King](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Queens_That_Can_Attack_the_King)
 * [Reveal Cards In Increasing Order](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Reveal_Cards_In_Increasing_Order)
@@ -77,6 +79,7 @@
 ### Hash Table
 
 * [Longest Substring Without Repeating Characters](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Longest_Substring_Without_Repeating_Char)
+* [Majority Element](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Majority_Element)
 * [Two Sum](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Two_Sum)
 * [Valid Sudoku](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Valid_Sudoku)
 
@@ -100,7 +103,8 @@
 * [Convert Sorted List to Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Convert_Sorted_List_to_Binary_Search_Tree)
 * [Next Greater Node In Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Next_Greater_Node_In_Linked_List)
 * [Odd Even Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Odd_Even_Linked_List)
-* Remove Nth Node From End of List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Remove_Nth_Node_From_End_of_List)
+* [Remove Nth Node From End of List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Remove_Nth_Node_From_End_of_List)
+* [Reverse Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Easy/Reverse_Linked_List)
 * [Rotate List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Rotate_List)
 * [Split Linked List in Parts](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Split_Linked_List_in_Parts)
 * [Swap Nodes in Pairs](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Swap_Nodes_in_Pairs)
@@ -152,6 +156,7 @@
 * [Insert into a Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Insert_into_a_Binary_Search_Tree)
 * [Maximum Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Maximum_Binary_Tree)
 * [Maximum Depth of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Maximum_Depth_of_Binary_Tree)
+* [Merge Two Binary Trees](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Merge_Two_Binary_Trees)
 * [Same Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Same_Tree)
 * [Symmetric Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Symmetric_Tree)
 * [Populating Next Right Pointers in Each Node](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Populating_Next_Right_Pointers)
