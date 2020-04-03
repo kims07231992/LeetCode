@@ -53,11 +53,14 @@
 ### Design
 
 * [LRU Cache](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/LRU_Cache)
+* [Min Stack](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Min_Stack)
 
 
 ### Dynamic Programming
 
 * [Best Time to Buy and Sell Stock](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Easy/Best_Time_to_Buy_and_Sell_Stock)
+* [Climbing Stairs](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Easy/Climbing_Stairs)
+* [House Robber](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Easy/House_Robber)
 * [Longest Increasing Subsequence](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Medium/Longest_Increasing_Subsequence)
 * [Maximum Subarray](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Easy/Maximum_Subarray)
 
@@ -101,6 +104,8 @@
 * [Add Two Numbers](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Add_Two_Numbers)
 * [Add Two Numbers II](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Add_Two_Numbers_II)
 * [Convert Sorted List to Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Convert_Sorted_List_to_Binary_Search_Tree)
+* [Intersection of Two Linked Lists](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Easy/Intersection_of_Two_Linked_Lists)
+* [Linked List Cycle](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Easy/Linked_List_Cycle)
 * [Next Greater Node In Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Next_Greater_Node_In_Linked_List)
 * [Odd Even Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Odd_Even_Linked_List)
 * [Remove Nth Node From End of List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Remove_Nth_Node_From_End_of_List)
@@ -159,6 +164,7 @@
 * [Merge Two Binary Trees](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Merge_Two_Binary_Trees)
 * [Same Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Same_Tree)
 * [Symmetric Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Symmetric_Tree)
+* [Path Sum III](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Path_Sum_III)
 * [Populating Next Right Pointers in Each Node](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Populating_Next_Right_Pointers)
 * [Validate Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Validate_Binary_Search_Tree)
 
