@@ -16,6 +16,7 @@
 * [Reveal Cards In Increasing Order](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Reveal_Cards_In_Increasing_Order)
 * [Trapping Rain Water](https://github.com/kims07231992/LeetCode/tree/master/Array/Hard/Trapping_Rain_Water)
 * [Search in Rotated Sorted Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Search_in_Rotated_Sorted_Array)
+* [Shortest Unsorted Continuous Subarray](https://github.com/kims07231992/LeetCode/tree/master/Array/Easy/Shortest_Unsorted_Continuous_Subarray)
 
 
 ### Backtracking
@@ -108,6 +109,7 @@
 * [Linked List Cycle](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Easy/Linked_List_Cycle)
 * [Next Greater Node In Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Next_Greater_Node_In_Linked_List)
 * [Odd Even Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Odd_Even_Linked_List)
+* [Palindrome Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Easy/Palindrome_Linked_List)
 * [Remove Nth Node From End of List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Remove_Nth_Node_From_End_of_List)
 * [Reverse Linked List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Easy/Reverse_Linked_List)
 * [Rotate List](https://github.com/kims07231992/LeetCode/tree/master/LinkedList/Medium/Rotate_List)
