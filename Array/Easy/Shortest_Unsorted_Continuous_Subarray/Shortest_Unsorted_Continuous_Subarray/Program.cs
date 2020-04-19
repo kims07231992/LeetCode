@@ -15,25 +15,23 @@ namespace Shortest_Unsorted_Continuous_Subarray
         }
 
         /// <summary>
-        /// Time Complexity: O(N) where N is number of elements
+        /// Time Complexity: O(NlogN) where N is number of elements
         /// Space Complexity: O(1)
         /// </summary>
         private static int FindUnsortedSubarray(int[] nums)
         {
             int n = nums.Length;
-            int start = -1;
-            int end = -2;
-            int min = nums[n - 1];
-            int max = nums[0];
-            for (int i = 1; i < n; i++)
-            {
-                max = Math.Max(max, nums[i]);
-                min = Math.Min(min, nums[n - 1 - i]);
-                if (nums[i] < max)
-                    end = i;
-                if (nums[n - 1 - i] > min)
-                    start = n - 1 - i;
-            }
+            var temp = new int[n];
+            nums.CopyTo(temp, 0);
+            Array.Sort(temp);
+
+            int start = 0;
+            while (start < n && nums[start] == temp[start])
+                start++;
+
+            int end = n - 1;
+            while (end > start && nums[end] == temp[end])
+                end--;
 
             return end - start + 1;
         }

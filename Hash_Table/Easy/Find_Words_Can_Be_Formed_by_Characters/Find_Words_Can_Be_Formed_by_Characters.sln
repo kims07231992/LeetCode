@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_Words_Can_Be_Formed_by_Characters", "Find_Words_Can_Be_Formed_by_Characters\Find_Words_Can_Be_Formed_by_Characters.csproj", "{AAB7E45D-DD47-4CD4-81ED-73ABF425E59B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB7E45D-DD47-4CD4-81ED-73ABF425E59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB7E45D-DD47-4CD4-81ED-73ABF425E59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB7E45D-DD47-4CD4-81ED-73ABF425E59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB7E45D-DD47-4CD4-81ED-73ABF425E59B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FFCF507-0F84-4550-B600-0C5A0D649C04}
+	EndGlobalSection
+EndGlobal

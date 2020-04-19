@@ -14,6 +14,7 @@
 * [Pancake Sorting](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Pancake_Sorting)
 * [Queens That Can Attack the King](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Queens_That_Can_Attack_the_King)
 * [Reveal Cards In Increasing Order](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Reveal_Cards_In_Increasing_Order)
+* [Toeplitz Matrix](https://github.com/kims07231992/LeetCode/tree/master/Array/Easy/Toeplitz_Matrix)
 * [Trapping Rain Water](https://github.com/kims07231992/LeetCode/tree/master/Array/Hard/Trapping_Rain_Water)
 * [Search in Rotated Sorted Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Search_in_Rotated_Sorted_Array)
 * [Shortest Unsorted Continuous Subarray](https://github.com/kims07231992/LeetCode/tree/master/Array/Easy/Shortest_Unsorted_Continuous_Subarray)
@@ -82,6 +83,7 @@
 
 ### Hash Table
 
+* [Find Words That Can Be Formed by Characters](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Find_Words_Can_Be_Formed_by_Characters)
 * [Longest Substring Without Repeating Characters](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Longest_Substring_Without_Repeating_Char)
 * [Majority Element](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Majority_Element)
 * [Two Sum](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Two_Sum)
@@ -122,6 +124,7 @@
 * [Integer to English Words](https://github.com/kims07231992/LeetCode/tree/master/Math/Hard/Integer_to_English_Words)
 * [Integer to Roman](https://github.com/kims07231992/LeetCode/tree/master/Math/Medium/Integer_to_Roman)
 * [Palindrome Number](https://github.com/kims07231992/LeetCode/tree/master/Math/Medium/Palindrome_Number)
+* [Rectangle Overlap](https://github.com/kims07231992/LeetCode/tree/master/Math/Easy/Rectangle_Overlap)
 * [Reverse Integer](https://github.com/kims07231992/LeetCode/tree/master/Math/Easy/Reverse_Integer)
 * [Roman to Integer](https://github.com/kims07231992/LeetCode/tree/master/Math/Easy/Roman_to_Integer)
 * [String to Integer (atoi)](https://github.com/kims07231992/LeetCode/tree/master/Math/Medium/String_to_Integer)
