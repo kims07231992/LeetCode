@@ -33,8 +33,8 @@ namespace Critical_Connections_in_a_Network
             var adjLists = new List<int>[n];
             var disc = new int[n];
             var low = new int[n];
+            var parent = new int[n];
             var visited = new bool[n];
-            var time = 0;
 
             for (int i = 0; i < n; i++)
             {
@@ -51,38 +51,39 @@ namespace Critical_Connections_in_a_Network
 
             for (int i = 0; i < n; i++)
             {
-                CriticalConnections(result, adjLists, disc, low, visited, i, i, time);
+                CriticalConnections(result, adjLists, disc, low, parent, visited, i, 0);
             }
 
             return result;
         }
 
-        private static void CriticalConnections(IList<IList<int>> result,
-            List<int>[] adjLists, int[] disc, int[] low, bool[] visited, int u, int previous, int time)
+        private static void CriticalConnections(IList<IList<int>> result, List<int>[] adjLists, int[] disc, int[] low, int[] parent, bool[] visited, int currentIndex, int time)
         {
-            disc[u] = low[u] = ++time;
-            visited[u] = true;
+            disc[currentIndex] = low[currentIndex] = ++time;
+            visited[currentIndex] = true;
 
-            var adjList = adjLists[u];
-            foreach (var v in adjList)
+            var adjList = adjLists[currentIndex];
+            foreach (var adjIndex in adjList)
             {
-                if (v == previous)
+                if (parent[currentIndex] == adjIndex)
                 {
-                    continue;
+                    continue; // reversed way, ignore
                 }
 
-                if (!visited[v])
+                if (!visited[adjIndex])
                 {
-                    CriticalConnections(result, adjLists, disc, low, visited, v, u, time);
-                    low[u] = Math.Min(low[u], low[v]);
-                    if (low[v] > disc[u])
+                    parent[adjIndex] = currentIndex;
+                    CriticalConnections(result, adjLists, disc, low, parent, visited, adjIndex, time);
+                    low[currentIndex] = Math.Min(low[currentIndex], low[adjIndex]);
+
+                    if (disc[currentIndex] < low[adjIndex]) // there is no path for current vertex to reach back to adjacent vertex or previous vertices
                     {
-                        result.Add(new List<int> { u, v });
+                        result.Add(new List<int> { currentIndex, adjIndex });
                     }
                 }
-                else
+                else // if current vertex discovered and is not parent of adjacent vertex, update low[current]
                 {
-                    low[u] = Math.Min(low[u], disc[v]);
+                    low[currentIndex] = Math.Min(low[currentIndex], disc[adjIndex]);
                 }
             }
         }
