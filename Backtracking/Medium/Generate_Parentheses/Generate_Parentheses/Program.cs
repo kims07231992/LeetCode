@@ -4,6 +4,7 @@ namespace Generate_Parentheses
 {
     internal class Program
     {
+        private static int _count;
         private static void Main(string[] args)
         {
             Run();
@@ -30,6 +31,7 @@ namespace Generate_Parentheses
 
         private static void RecursiveGenerateParenthesis(int n, int leftCount, int rightCount, string s, List<string> parenthesis)
         {
+            System.Console.WriteLine(++_count);
             if (s.Length == n * 2)
             {
                 parenthesis.Add(s);

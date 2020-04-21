@@ -17,7 +17,7 @@ namespace Letter_Combinations_of_a_Phone_Number
 
         /// <summary>
         /// Time Complexity: O(K^N) where K is number of letters per digit and N is number of digits
-        /// Space Complexity: O(K^N)
+        /// Space Complexity: O(N)
         /// </summary>
         private static IList<string> LetterCombinations(string digits)
         {

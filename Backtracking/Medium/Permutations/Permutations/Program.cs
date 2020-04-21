@@ -17,7 +17,7 @@ namespace Permutations
 
         /// <summary>
         /// Time Complexity: O(N!) where N is length of given array nums
-        /// Space Complexity: O(N!)
+        /// Space Complexity: O(N)
         /// </summary>
         private static IList<IList<int>> Permute(int[] nums)
         {

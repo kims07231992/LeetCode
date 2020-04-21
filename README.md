@@ -23,6 +23,7 @@
 ### Backtracking
 
 * [Combination Sum](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Combination_Sum)
+* [Generate Parentheses](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Generate_Parentheses)	
 * [Letter Combinations of a Phone Number](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Letter_Combinations_of_a_Phone_Number)
 * [Permutations](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Permutations)
 * [Subsets](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Subsets)
@@ -147,7 +148,6 @@
 
 * [Custom Sort String](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Custom_Sort_String)
 * [Find and Replace Pattern](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Find_and_Replace_Pattern)
-* [Generate Parentheses](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Generate_Parentheses)	
 * [Longest Palindromic Substring](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Longest_Palindromic_Substring)	
 * [Minimum Remove to Make Valid Parentheses](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Minimum_Remove_to_Make_Valid)
 * [Palindromic Substrings](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Palindromic_Substrings)
