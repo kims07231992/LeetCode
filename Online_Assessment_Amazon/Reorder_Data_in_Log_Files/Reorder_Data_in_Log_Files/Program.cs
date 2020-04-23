@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 
 namespace Reorder_Data_in_Log_Files
 {
@@ -31,14 +29,14 @@ namespace Reorder_Data_in_Log_Files
             for (int i = 0; i < logs.Length; i++)
             {
                 var word = logs[i];
-                var lastChar = word.Last();
+                var lastChar = word[word.Length - 1];
                 if (lastChar >= '0' && lastChar <= '9')
                     digitLogs.Add(word);
                 else
                     letterLogs.Add(word);
             }
 
-            var comparer = Comparer<string>.Create((x, y) => {
+            letterLogs.Sort((x, y) => {
                 var startIndexX = x.IndexOf(' ');
                 var idX = x.Substring(0, startIndexX);
                 x = x.Remove(0, startIndexX);
@@ -47,9 +45,10 @@ namespace Reorder_Data_in_Log_Files
                 var idY = y.Substring(0, startIndexY);
                 y = y.Remove(0, startIndexY);
 
-                return x == y ? idX.CompareTo(idY) : x.CompareTo(y);
+                return x == y 
+                    ? idX.CompareTo(idY) 
+                    : x.CompareTo(y);
             });
-            letterLogs.Sort(comparer);
             letterLogs.AddRange(digitLogs);
 
             return letterLogs.ToArray();
