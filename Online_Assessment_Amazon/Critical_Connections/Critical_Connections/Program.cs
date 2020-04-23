@@ -54,7 +54,11 @@ namespace Critical_Connections
                 adjLists[toV].Add(fromV);
             }
 
-            SearchCriticalRouter(result, adjLists, low, disc, parent, visited, 0, 0, 0);
+            for (int i = 0; i < numEdges; i++)
+            {
+                if (!visited[i])
+                    SearchCriticalRouter(result, adjLists, low, disc, parent, visited, 0, 0, i);
+            }
 
             return result.ToList();
         }
