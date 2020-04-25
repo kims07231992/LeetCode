@@ -55,6 +55,7 @@
 
 ### Design
 
+* [Design HashMap](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Design_HashMap)
 * [LRU Cache](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/LRU_Cache)
 * [Min Stack](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Min_Stack)
 
