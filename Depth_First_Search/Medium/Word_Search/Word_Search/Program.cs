@@ -23,7 +23,7 @@ namespace Word_Search
         /// <summary>
         /// Time Complexity: O(M * N * 3^L) where M is length of row and N is length of column and L is length of given string word
         /// 3^L can be 4^L either but since we skip the 'seen' part, it branches out to 3 different ways except the first case
-        /// Space Complexity: O(Min(M * N, 3 * L))
+        /// Space Complexity: O(L)
         /// </summary>
         public static bool Exist(char[][] board, string word)
         {

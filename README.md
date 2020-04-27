@@ -57,6 +57,7 @@
 ### Design
 
 * [Design HashMap](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Design_HashMap)
+* [Design Tic-Tac-Toe](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/Design_Tic_Tac_Toe)
 * [LRU Cache](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/LRU_Cache)
 * [Min Stack](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Min_Stack)
 * [Moving Average from Data Stream](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Moving_Average_from_Data_Stream)
