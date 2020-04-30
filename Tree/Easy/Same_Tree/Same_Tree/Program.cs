@@ -16,46 +16,54 @@ namespace Same_Tree
             var q = new TreeNode(1);
             q.right = new TreeNode(1);
 
-            var result = IsSameTree(p, q);
+            var result = IsSameTreeIterative(p, q);
         }
 
         /// <summary>
-        /// Time Complexity: O(P + Q) where P is number of elements of given tree p and Q is number of elements of given tree q
-        /// Space Complexity: O(P + Q)
+        /// Time Complexity: O(N) where N is Min(N, M)
+        /// Space Complexity: O(N)
         /// </summary>
-        public static bool IsSameTree(TreeNode p, TreeNode q)
+        public static bool IsSameTreeIterative(TreeNode p, TreeNode q)
         {
-            var listP = new List<int>();
-            var listQ = new List<int>();
-            Traverse(p, listP);
-            Traverse(q, listQ);
-
-            if (listP.Count != listQ.Count)
-                return false;
-
-            for (int i = 0; i < listP.Count; i++)
-                if (listP[i] != listQ[i])
+            var queueP = new Queue<TreeNode>();
+            var queueQ = new Queue<TreeNode>();
+            queueP.Enqueue(p);
+            queueQ.Enqueue(q);
+            while (queueP.Count > 0 && queueQ.Count > 0)
+            {
+                p = queueP.Dequeue();
+                q = queueQ.Dequeue();
+                if (p == null && q == null)
+                    continue;
+                else if (p == null || q == null)
+                    return false;
+                else if (p.val != q.val)
                     return false;
 
-            return true;
+                queueP.Enqueue(p.left);
+                queueP.Enqueue(p.right);
+                queueQ.Enqueue(q.left);
+                queueQ.Enqueue(q.right);
+            }
+
+            return queueP.Count == queueQ.Count;
         }
 
-        private static void Traverse(TreeNode node, List<int> list)
+        /// <summary>
+        /// Time Complexity: O(N) where N is Min(N, M)
+        /// Space Complexity: O(N)
+        /// </summary>
+        private static bool IsSameTreeRecursive(TreeNode p, TreeNode q)
         {
-            if (node == null)
-                return;
-            
-            list.Add(node.val); // PreOrder
+            if (p == null && q == null)
+                return true;
+            else if (p == null || q == null)
+                return false;
+            else if (p.val != q.val)
+                return false;
 
-            if (node.left != null)
-                Traverse(node.left, list);
-            else
-                list.Add(int.MinValue); // null
-             
-            if (node.right != null)
-                Traverse(node.right, list);
-            else
-                list.Add(int.MinValue); // null
+            return IsSameTreeRecursive(p.left, q.left) 
+                && IsSameTreeRecursive(p.right, q.right);
         }
 
         public class TreeNode
