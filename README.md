@@ -19,11 +19,13 @@
 * [Trapping Rain Water](https://github.com/kims07231992/LeetCode/tree/master/Array/Hard/Trapping_Rain_Water)
 * [Search in Rotated Sorted Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Search_in_Rotated_Sorted_Array)
 * [Shortest Unsorted Continuous Subarray](https://github.com/kims07231992/LeetCode/tree/master/Array/Easy/Shortest_Unsorted_Continuous_Subarray)
+* [Spiral Matrix](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Spiral_Matrix)
 
 
 ### Backtracking
 
 * [Combination Sum](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Combination_Sum)
+* [Combination Sum II](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Combination_Sum_II)
 * [Generate Parentheses](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Generate_Parentheses)	
 * [Letter Combinations of a Phone Number](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Letter_Combinations_of_a_Phone_Number)
 * [Permutations](https://github.com/kims07231992/LeetCode/tree/master/Backtracking/Medium/Permutations)
@@ -89,6 +91,7 @@
 ### Hash Table
 
 * [Find Words That Can Be Formed by Characters](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Find_Words_Can_Be_Formed_by_Characters)
+* [Group Anagrams](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Group_Anagrams)
 * [Longest Substring Without Repeating Characters](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Longest_Substring_Without_Repeating_Char)
 * [Majority Element](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Majority_Element)
 * [Two Sum](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Two_Sum)
