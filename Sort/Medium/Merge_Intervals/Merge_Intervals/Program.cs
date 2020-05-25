@@ -32,8 +32,7 @@ namespace Merge_Intervals
                 return intervals;
 
             var result = new List<int[]>();
-            var comparer = new Comparison<int[]>((x, y) => { return x[0] < y[0] ? -1 : (x[0] > y[0] ? 1 : 0); });
-            Array.Sort(intervals, comparer);
+            Array.Sort(intervals, (x, y) => { return x[0] < y[0] ? -1 : (x[0] > y[0] ? 1 : 0); });
 
             var head = intervals[0];
             for (int i = 1; i < intervals.Length; i++)

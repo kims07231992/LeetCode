@@ -86,6 +86,7 @@
 ### Greedy
 
 * [Group the People Given the Group Size They Belong To](https://github.com/kims07231992/LeetCode/tree/master/Greedy/Medium/Group_the_People_Given_the_Group_Size)
+* [Jump Game](https://github.com/kims07231992/LeetCode/tree/master/Greedy/Medium/Jump_Game)
 
 
 ### Hash Table
@@ -94,6 +95,7 @@
 * [Group Anagrams](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Group_Anagrams)
 * [Longest Substring Without Repeating Characters](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Longest_Substring_Without_Repeating_Char)
 * [Majority Element](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Majority_Element)
+* [Subarray Sum Equals K](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Meidum/Subarray_Sum_Equals_K)
 * [Two Sum](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Two_Sum)
 * [Valid Sudoku](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Valid_Sudoku)
 
@@ -131,7 +133,7 @@
 
 * [Integer to English Words](https://github.com/kims07231992/LeetCode/tree/master/Math/Hard/Integer_to_English_Words)
 * [Integer to Roman](https://github.com/kims07231992/LeetCode/tree/master/Math/Medium/Integer_to_Roman)
-* [Palindrome Number](https://github.com/kims07231992/LeetCode/tree/master/Math/Medium/Palindrome_Number)
+* [Palindrome Number](https://github.com/kims07231992/LeetCode/tree/master/Math/Easy/Palindrome_Number)
 * [Rectangle Overlap](https://github.com/kims07231992/LeetCode/tree/master/Math/Easy/Rectangle_Overlap)
 * [Reverse Integer](https://github.com/kims07231992/LeetCode/tree/master/Math/Easy/Reverse_Integer)
 * [Roman to Integer](https://github.com/kims07231992/LeetCode/tree/master/Math/Easy/Roman_to_Integer)
@@ -148,6 +150,7 @@
 * [Binary Tree Inorder Traversal](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Binary_Tree_Inorder_Traversal)
 * [Daily Temperatures](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Daily_Temperatures)
 * [Minimum Add to Make Parentheses Valid](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Minimum_Add_to_Make_Parentheses_Valid)
+* [Remove K Digits](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Remove_K_Digits)
 * [Valid Parentheses](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Easy/Valid_Parentheses)
 
 
@@ -177,6 +180,7 @@
 * [Maximum Depth of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Maximum_Depth_of_Binary_Tree)
 * [Merge Two Binary Trees](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Merge_Two_Binary_Trees)
 * [Same Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Same_Tree)
+* [Serialize and Deserialize BST](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Serialize_and_Deserialize_BST)
 * [Symmetric Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Symmetric_Tree)
 * [Path Sum III](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Path_Sum_III)
 * [Populating Next Right Pointers in Each Node](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Populating_Next_Right_Pointers)

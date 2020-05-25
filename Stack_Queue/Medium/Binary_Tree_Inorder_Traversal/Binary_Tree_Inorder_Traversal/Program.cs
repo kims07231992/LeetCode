@@ -51,26 +51,20 @@ namespace Binary_Tree_Inorder_Traversal
             if (root == null)
                 return result;
 
+            var current = root;
             var stack = new Stack<TreeNode>();
-            stack.Push(root);
-            while (stack.Count != 0)
+            while (current != null || stack.Count > 0)
             {
-                var node = stack.Peek();
-                if (node.left != null)
+                while (current != null)
                 {
-                    stack.Push(node.left);
-                    node.left = null;
+                    stack.Push(current);
+                    current = current.left;
                 }
-                else if (node.right != null)
-                {
-                    result.Add(stack.Pop().val);
-                    stack.Push(node.right);
-                    node.right = null;
-                }
-                else
-                {
-                    result.Add(stack.Pop().val);
-                }
+
+                current = stack.Pop();
+                result.Add(current.val);
+
+                current = current.right;
             }
 
             return result;
