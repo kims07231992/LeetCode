@@ -72,6 +72,7 @@
 * [House Robber](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Easy/House_Robber)
 * [Longest Increasing Subsequence](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Medium/Longest_Increasing_Subsequence)
 * [Maximum Subarray](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Easy/Maximum_Subarray)
+* [Word Break](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Medium/Word_Break)
 
 
 ### Graph
