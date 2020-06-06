@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest_Path_in_Binary_Matrix", "Shortest_Path_in_Binary_Matrix\Shortest_Path_in_Binary_Matrix.csproj", "{E8B5AFF1-A457-499C-8CD7-AE56CE3F228D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8B5AFF1-A457-499C-8CD7-AE56CE3F228D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B5AFF1-A457-499C-8CD7-AE56CE3F228D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B5AFF1-A457-499C-8CD7-AE56CE3F228D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B5AFF1-A457-499C-8CD7-AE56CE3F228D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {738344B6-81B6-43F4-8BF1-0F3348CFCEFB}
+	EndGlobalSection
+EndGlobal

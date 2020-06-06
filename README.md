@@ -44,6 +44,7 @@
 
 * [Course Schedule](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Course_Schedule)
 * [Course Schedule II](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Course_Schedule_II)
+* [Shortest Path in Binary Matrix](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Shortest_Path_in_Binary_Matrix)
 * [Walls and Gates](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Walls_and_Gates)
 * [Word Ladder](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Word_Ladder)
 
