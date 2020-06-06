@@ -16,7 +16,7 @@ namespace Reorder_Data_in_Log_Files
         }
 
         /// <summary>
-        /// Time Complexity: O(NlogN) where N is number of logs
+        /// Time Complexity: O(L*NlogN) where L is the longest length of the log and N is number of logs
         /// Space Complexity: O(N)
         /// </summary>
         public static string[] ReorderLogFiles(string[] logs)
