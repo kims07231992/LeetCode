@@ -52,6 +52,7 @@
 ### Depth First Search
 
 * [Critical Connections in a Network](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Hard/Critical_Connections_in_a_Network)
+* [Friend Circles](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Friend_Circles)
 * [Number of Islands](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Number_of_Islands)
 * [Pacific Atlantic Water Flow](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Pacific_Atlantic_Water_Flow)
 * [Word Search](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Word_Search)
