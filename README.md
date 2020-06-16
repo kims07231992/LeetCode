@@ -179,6 +179,8 @@
 * [Diameter of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Diameter_of_Binary_Tree)
 * [Find Bottom Left Tree Value](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Find_Bottom_Left_Tree_Value)
 * [Insert into a Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Insert_into_a_Binary_Search_Tree)
+* [Kth Smallest Element in a BST](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Kth_Smallest_Element_in_a_BST)
+* [Lowest Common Ancestor of a Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Lowest_Common_Ancestor_of_a_BST)
 * [Lowest Common Ancestor of a Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Lowest_Common_Ancestor_of_a_Binary_Tree)
 * [Maximum Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Maximum_Binary_Tree)
 * [Maximum Depth of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Maximum_Depth_of_Binary_Tree)
