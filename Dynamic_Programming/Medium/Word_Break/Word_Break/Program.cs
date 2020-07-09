@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Work_Break
+namespace Word_Break
 {
     internal class Program
     {
