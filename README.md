@@ -10,6 +10,8 @@
 * [Find All Numbers Disappeared in an Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Easy/Find_All_Numbers_Disappeared_in_an_Array)
 * [Game of Life](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Game_of_Life)
 * [Max Area of Island](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Max_Area_of_Island)
+* [Max Increase to Keep City Skyline](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Max_Increase_to_Keep_City_Skyline)
+* [Merge Sorted Array](https://github.com/kims07231992/LeetCode/tree/master/Array/Easy/Merge_Sorted_Array)
 * [Move Zeroes](https://github.com/kims07231992/LeetCode/tree/master/Array/Easy/Move_Zeroes)
 * [Number of Equivalent Domino Pairs](https://github.com/kims07231992/LeetCode/tree/master/Array/Easy/Number_of_Equivalent_Domino_Pairs)
 * [Pancake Sorting](https://github.com/kims07231992/LeetCode/tree/master/Array/Medium/Pancake_Sorting)
@@ -61,6 +63,7 @@
 ### Design
 
 * [Design HashMap](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Design_HashMap)
+* [Design Hit Counter](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/Design_Hit_Counter)
 * [Design Tic-Tac-Toe](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/Design_Tic_Tac_Toe)
 * [LRU Cache](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/LRU_Cache)
 * [Min Stack](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Min_Stack)
@@ -90,6 +93,7 @@
 
 * [Group the People Given the Group Size They Belong To](https://github.com/kims07231992/LeetCode/tree/master/Greedy/Medium/Group_the_People_Given_the_Group_Size)
 * [Jump Game](https://github.com/kims07231992/LeetCode/tree/master/Greedy/Medium/Jump_Game)
+* [Queue Reconstruction by Height](https://github.com/kims07231992/LeetCode/tree/master/Greedy/Medium/Queue_Reconstruction_by_Height)
 
 
 ### Hash Table
@@ -159,6 +163,7 @@
 
 ### String
 
+* [Compare Version Numbers](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Compare_Version_Numbers)
 * [Custom Sort String](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Custom_Sort_String)
 * [Find and Replace Pattern](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Find_and_Replace_Pattern)
 * [Longest Palindromic Substring](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Longest_Palindromic_Substring)	
@@ -174,6 +179,7 @@
 * [All Elements in Two Binary Search Trees](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/All_Elements_in_Two_Binary_Search_Trees)
 * [Binary Tree Level Order Traversal](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Binary_Tree_Level_Order_Traversal)
 * [Binary Tree Right Side View](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Binary_Tree_Right_Side_View)
+* [Boundary of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Boundary_Traversal_Of_Binary_Tree)
 * [Construct Binary Search Tree from Preorder Traversal](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Construct_BST_from_Preorder_Traversal)
 * [Deepest Leaves Sum](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Deepest_Leaves_Sum)
 * [Diameter of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Diameter_of_Binary_Tree)
