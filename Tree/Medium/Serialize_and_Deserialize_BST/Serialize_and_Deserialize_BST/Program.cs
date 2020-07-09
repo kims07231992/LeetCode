@@ -66,7 +66,7 @@ namespace Serialize_and_Deserialize_BST
             /// </summary>
             public TreeNode deserialize(string data)
             {
-                var queue = new Queue<string>(data.Split(""));
+                var queue = new Queue<string>(data.Split(","));
                 return deserialize(queue);
             }
 
