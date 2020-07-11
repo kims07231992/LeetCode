@@ -55,6 +55,7 @@
 
 * [Critical Connections in a Network](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Hard/Critical_Connections_in_a_Network)
 * [Friend Circles](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Friend_Circles)
+* [Number of Distinct Islands](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Number_of_Distinct_Islands)
 * [Number of Islands](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Number_of_Islands)
 * [Pacific Atlantic Water Flow](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Pacific_Atlantic_Water_Flow)
 * [Word Search](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Word_Search)
@@ -111,9 +112,10 @@
 
 * [K Closest Points to Origin](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/K_Closest_Points_to_Origin)
 * [Kth Largest Element in an Array](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Kth_Largest_Element_in_an_Array)
-* [Meeting Rooms II](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Meeting_Rooms_II)
 * [Kth Smallest Element in a Sorted Matrix](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Kth_Smallest_Element_in_a_Sorted_Matrix)
+* [Meeting Rooms II](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Meeting_Rooms_II)
 * [Merge k Sorted Lists](https://github.com/kims07231992/LeetCode/tree/master/Heap/Hard/Merge_k_Sorted_Lists)
+* [Minimum Cost to Connect Sticks](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Minimum_Cost_to_Connect_Sticks)
 * [Sort Characters By Frequency](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Sort_Characters_By_Frequency)
 * [Top K Frequent Elements](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Top_K_Frequent_Elements)
 * [Top K Frequent Words](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Top_K_Frequent_Words)
@@ -177,6 +179,7 @@
 ### Tree
 
 * [All Elements in Two Binary Search Trees](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/All_Elements_in_Two_Binary_Search_Trees)
+* [All Nodes Distance K in Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/All_Nodes_Distance_K_in_Binary_Tree)
 * [Binary Tree Level Order Traversal](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Binary_Tree_Level_Order_Traversal)
 * [Binary Tree Right Side View](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Binary_Tree_Right_Side_View)
 * [Boundary of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Boundary_Traversal_Of_Binary_Tree)
