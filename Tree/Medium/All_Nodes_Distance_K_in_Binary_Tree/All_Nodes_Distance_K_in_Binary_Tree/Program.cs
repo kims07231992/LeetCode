@@ -39,32 +39,29 @@ namespace All_Nodes_Distance_K_in_Binary_Tree
             return result;
         }
 
-        private static int Search(TreeNode root, TreeNode target, Dictionary<TreeNode, int> map)
+        private static void Search(TreeNode root, TreeNode target, Dictionary<TreeNode, int> map)
         {
             if (root == null)
-                return -1;
+                return;
 
             if (root == target)
             {
                 map.Add(root, 0);
-                return 0;
             }
 
-            int left = Search(root.left, target, map);
-            if (left >= 0) // to only map the path for target
+            Search(root.left, target, map);
+            if (map.ContainsKey(root.left)) // to only map the path for target
             {
-                map.Add(root, left + 1);
-                return left + 1;
+                map.Add(root, map[root.left] + 1);
+                return;
             }
 
-            int right = Search(root.right, target, map);
-            if (right >= 0) // to only map the path for target
+            Search(root.right, target, map);
+            if (map.ContainsKey(root.right)) // to only map the path for target
             {
-                map.Add(root, right + 1);
-                return right + 1;
+                map.Add(root, map[root.right] + 1);
+                return;
             }
-
-            return -1;
         }
 
         private static void Traverse(List<int> result, Dictionary<TreeNode, int> map, TreeNode root, TreeNode target, int K, int length)
