@@ -46,14 +46,18 @@
 
 * [Course Schedule](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Course_Schedule)
 * [Course Schedule II](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Course_Schedule_II)
+* [Path With Maximum Minimum_Value](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Path_With_Maximum_Minimum_Value)
 * [Shortest Path in Binary Matrix](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Shortest_Path_in_Binary_Matrix)
+* [Snakes and Ladders](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Snakes_and_Ladders)
 * [Walls and Gates](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Walls_and_Gates)
 * [Word Ladder](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Medium/Word_Ladder)
+* [Word Ladder II](https://github.com/kims07231992/LeetCode/tree/master/Breadth_First_Search/Hard/Word_Ladder_II)
 
 
 ### Depth First Search
 
 * [Critical Connections in a Network](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Hard/Critical_Connections_in_a_Network)
+* [Flood Fill](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Easy/Flood_Fill)
 * [Friend Circles](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Friend_Circles)
 * [Number of Distinct Islands](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Number_of_Distinct_Islands)
 * [Number of Islands](https://github.com/kims07231992/LeetCode/tree/master/Depth_First_Search/Medium/Number_of_Islands)
@@ -63,9 +67,14 @@
 
 ### Design
 
+* [Add and Search Word - Data structure design](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/Add_and_Search_Word)
 * [Design HashMap](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Design_HashMap)
 * [Design Hit Counter](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/Design_Hit_Counter)
+* [Design In-Memory File System](https://github.com/kims07231992/LeetCode/tree/master/Design/Hard/Design_In_Memory_File_System)
+* [Design Search Autocomplete System](https://github.com/kims07231992/LeetCode/tree/master/Design/Hard/Design_Search_Autocomplete_System)
+* [Design Snake Game](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/Design_Snake_Game)
 * [Design Tic-Tac-Toe](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/Design_Tic_Tac_Toe)
+* [Insert Delete GetRandom O(1)](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/Insert_Delete_GetRandom)
 * [LRU Cache](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/LRU_Cache)
 * [Min Stack](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Min_Stack)
 * [Moving Average from Data Stream](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Moving_Average_from_Data_Stream)
@@ -99,10 +108,12 @@
 
 ### Hash Table
 
+* [Analyze User Website Visit Pattern](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Analyze_User_Website_Visit_Pattern)
 * [Find Words That Can Be Formed by Characters](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Find_Words_Can_Be_Formed_by_Characters)
 * [Group Anagrams](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Group_Anagrams)
 * [Longest Substring Without Repeating Characters](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Longest_Substring_Without_Repeating_Char)
 * [Majority Element](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Majority_Element)
+* [Prison Cells After N Days](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Prison_Cells_After_N_Days)
 * [Subarray Sum Equals K](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Meidum/Subarray_Sum_Equals_K)
 * [Two Sum](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Easy/Two_Sum)
 * [Valid Sudoku](https://github.com/kims07231992/LeetCode/tree/master/Hash_Table/Medium/Valid_Sudoku)
@@ -110,12 +121,14 @@
 
 ### Heap
 
+* [Find Median from Data Stream](https://github.com/kims07231992/LeetCode/tree/master/Heap/Hard/Find_Median_from_Data_Stream)
 * [K Closest Points to Origin](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/K_Closest_Points_to_Origin)
 * [Kth Largest Element in an Array](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Kth_Largest_Element_in_an_Array)
 * [Kth Smallest Element in a Sorted Matrix](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Kth_Smallest_Element_in_a_Sorted_Matrix)
 * [Meeting Rooms II](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Meeting_Rooms_II)
 * [Merge k Sorted Lists](https://github.com/kims07231992/LeetCode/tree/master/Heap/Hard/Merge_k_Sorted_Lists)
 * [Minimum Cost to Connect Sticks](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Minimum_Cost_to_Connect_Sticks)
+* [Sliding Window Median](https://github.com/kims07231992/LeetCode/tree/master/Heap/Hard/Sliding_Window_Median)
 * [Sort Characters By Frequency](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Sort_Characters_By_Frequency)
 * [Top K Frequent Elements](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Top_K_Frequent_Elements)
 * [Top K Frequent Words](https://github.com/kims07231992/LeetCode/tree/master/Heap/Medium/Top_K_Frequent_Words)
@@ -149,6 +162,12 @@
 * [String to Integer (atoi)](https://github.com/kims07231992/LeetCode/tree/master/Math/Medium/String_to_Integer)
 
 
+### Sliding Window
+
+* [Maximum Points You Can Obtain from Cards](https://github.com/kims07231992/LeetCode/tree/master/Sliding_Windows/Medium/Maximum_Points_You_Can_Obtain)
+* [Sliding Window Maximum](https://github.com/kims07231992/LeetCode/tree/master/Sliding_Windows/Hard/Sliding_Window_Maximum)
+
+
 ### Sort
 
 * [Merge Intervals](https://github.com/kims07231992/LeetCode/tree/master/Sort/Medium/Merge_Intervals)
@@ -159,21 +178,30 @@
 * [Binary Tree Inorder Traversal](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Binary_Tree_Inorder_Traversal)
 * [Daily Temperatures](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Daily_Temperatures)
 * [Minimum Add to Make Parentheses Valid](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Minimum_Add_to_Make_Parentheses_Valid)
+* [Number of Atoms](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Hard/Number_of_Atoms)
 * [Remove K Digits](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Medium/Remove_K_Digits)
 * [Valid Parentheses](https://github.com/kims07231992/LeetCode/tree/master/Stack_Queue/Easy/Valid_Parentheses)
 
 
 ### String
 
+* [Basic Calculator II](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Basic_Calculator_II)
 * [Compare Version Numbers](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Compare_Version_Numbers)
 * [Custom Sort String](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Custom_Sort_String)
 * [Find and Replace Pattern](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Find_and_Replace_Pattern)
 * [Longest Palindromic Substring](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Longest_Palindromic_Substring)	
 * [Minimum Remove to Make Valid Parentheses](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Minimum_Remove_to_Make_Valid)
+* [Most Common Word](https://github.com/kims07231992/LeetCode/tree/master/String/Easy/Most_Common_Word)
 * [Palindromic Substrings](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Palindromic_Substrings)
 * [Reorganize String](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Reorganize_String)
 * [Reverse String II](https://github.com/kims07231992/LeetCode/tree/master/String/Easy/Reverse_String_II)
+* [Word Subsets](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/Word_Subsets)
 * [ZigZag Conversion](https://github.com/kims07231992/LeetCode/tree/master/String/Medium/ZigZag_Conversion)
+
+
+### Topological Sort
+
+* [Alien Dictionary](https://github.com/kims07231992/LeetCode/tree/master/Topological_Sort/Hard/Alien_Dictionary)
 
 
 ### Tree
@@ -182,6 +210,7 @@
 * [All Nodes Distance K in Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/All_Nodes_Distance_K_in_Binary_Tree)
 * [Binary Tree Level Order Traversal](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Binary_Tree_Level_Order_Traversal)
 * [Binary Tree Right Side View](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Binary_Tree_Right_Side_View)
+* [Binary Tree Zigzag Level Order Traversal](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Binary_Tree_Zigzag_Level_Order_Traversal)
 * [Boundary of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Boundary_Traversal_Of_Binary_Tree)
 * [Construct Binary Search Tree from Preorder Traversal](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Construct_BST_from_Preorder_Traversal)
 * [Deepest Leaves Sum](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Deepest_Leaves_Sum)
@@ -195,11 +224,17 @@
 * [Maximum Depth of Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Maximum_Depth_of_Binary_Tree)
 * [Merge Two Binary Trees](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Merge_Two_Binary_Trees)
 * [Same Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Same_Tree)
+* [Serialize and Deserialize Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Hard/Serialize_and_Deserialize_Binary_Tree)
 * [Serialize and Deserialize BST](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Serialize_and_Deserialize_BST)
 * [Symmetric Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Symmetric_Tree)
 * [Path Sum III](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Path_Sum_III)
 * [Populating Next Right Pointers in Each Node](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Populating_Next_Right_Pointers)
 * [Validate Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Validate_Binary_Search_Tree)
+
+
+### Trie
+
+* [Concatenated Words](https://github.com/kims07231992/LeetCode/tree/master/Trie/Hard/Concatenated_Words)
 
 
 ### Online Assessment Amazon
