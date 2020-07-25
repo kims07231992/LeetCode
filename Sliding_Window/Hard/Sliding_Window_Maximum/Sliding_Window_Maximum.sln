@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliding_Window_Maximum", "Sliding_Window_Maximum\Sliding_Window_Maximum.csproj", "{ACFD1E95-6AFC-4283-9BCF-48C2F38D74BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFD1E95-6AFC-4283-9BCF-48C2F38D74BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFD1E95-6AFC-4283-9BCF-48C2F38D74BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFD1E95-6AFC-4283-9BCF-48C2F38D74BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFD1E95-6AFC-4283-9BCF-48C2F38D74BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77678BAF-BBA6-4600-A97B-6E23E3BE3636}
+	EndGlobalSection
+EndGlobal
