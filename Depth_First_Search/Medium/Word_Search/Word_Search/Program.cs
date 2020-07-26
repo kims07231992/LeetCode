@@ -27,11 +27,12 @@ namespace Word_Search
         /// </summary>
         public static bool Exist(char[][] board, string word)
         {
+            var visited = new bool[board.Length, board[0].Length];
             for (int m = 0; m < board.Length; m++)
             {
                 for (int n = 0; n < board[m].Length; n++)
                 {
-                    if (ExistRecursive(board, new HashSet<string>(), m, n, 0, word))
+                    if (ExistRecursive(board, visited, m, n, 0, word))
                         return true;
                 }
             }
@@ -39,23 +40,27 @@ namespace Word_Search
             return false;
         }
 
-        private static bool ExistRecursive(char[][] board, HashSet<string> seen, int m, int n, int index, string word)
+        private static bool ExistRecursive(char[][] board, bool[,] visited, int m, int n, int index, string word)
         {
             if (index == word.Length)
                 return true;
 
-            if (seen.Contains($"{m}x{n}") 
-                || m < 0 || m >= board.Length
-                || n < 0 || n >= board[m].Length 
-                || board[m][n] != word[index])
+            if (m < 0 || m >= board.Length
+                || n < 0 || n >= board[m].Length
+                || board[m][n] != word[index]
+                || visited[m, n])
                 return false;
 
-            seen.Add($"{m}x{n}");
-            return
-                ExistRecursive(board, new HashSet<string>(seen), m - 1, n, index + 1, word)
-                || ExistRecursive(board, new HashSet<string>(seen), m, n + 1, index + 1, word)
-                || ExistRecursive(board, new HashSet<string>(seen), m + 1, n, index + 1, word)
-                || ExistRecursive(board, new HashSet<string>(seen), m, n - 1, index + 1, word);
+            visited[m, n] = true;
+
+            if (ExistRecursive(board, visited, m - 1, n, index + 1, word)
+                || ExistRecursive(board, visited, m, n + 1, index + 1, word)
+                || ExistRecursive(board, visited, m + 1, n, index + 1, word)
+                || ExistRecursive(board, visited, m, n - 1, index + 1, word))
+                return true;
+
+            visited[m, n] = false;
+            return false;
         }
     }
 }

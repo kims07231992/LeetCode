@@ -75,6 +75,7 @@
 * [Design Snake Game](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/Design_Snake_Game)
 * [Design Tic-Tac-Toe](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/Design_Tic_Tac_Toe)
 * [Insert Delete GetRandom O(1)](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/Insert_Delete_GetRandom)
+* [LFU Cache](https://github.com/kims07231992/LeetCode/tree/master/Design/Hard/LFU_Cache)
 * [LRU Cache](https://github.com/kims07231992/LeetCode/tree/master/Design/Medium/LRU_Cache)
 * [Min Stack](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Min_Stack)
 * [Moving Average from Data Stream](https://github.com/kims07231992/LeetCode/tree/master/Design/Easy/Moving_Average_from_Data_Stream)
@@ -88,6 +89,7 @@
 * [Longest Increasing Subsequence](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Medium/Longest_Increasing_Subsequence)
 * [Maximum Subarray](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Easy/Maximum_Subarray)
 * [Word Break](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Medium/Word_Break)
+* [Word Break II](https://github.com/kims07231992/LeetCode/tree/master/Dynamic_Programming/Hard/Word_Break_II)
 
 
 ### Graph
@@ -164,8 +166,8 @@
 
 ### Sliding Window
 
-* [Maximum Points You Can Obtain from Cards](https://github.com/kims07231992/LeetCode/tree/master/Sliding_Windows/Medium/Maximum_Points_You_Can_Obtain)
-* [Sliding Window Maximum](https://github.com/kims07231992/LeetCode/tree/master/Sliding_Windows/Hard/Sliding_Window_Maximum)
+* [Maximum Points You Can Obtain from Cards](https://github.com/kims07231992/LeetCode/tree/master/Sliding_Window/Medium/Maximum_Points_You_Can_Obtain)
+* [Sliding Window Maximum](https://github.com/kims07231992/LeetCode/tree/master/Sliding_Window/Hard/Sliding_Window_Maximum)
 
 
 ### Sort
@@ -227,6 +229,7 @@
 * [Serialize and Deserialize Binary Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Hard/Serialize_and_Deserialize_Binary_Tree)
 * [Serialize and Deserialize BST](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Serialize_and_Deserialize_BST)
 * [Symmetric Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Symmetric_Tree)
+* [Path Sum II](https://github.com/kims07231992/LeetCode/tree/master/Tree/Meidum/Path_Sum_II)
 * [Path Sum III](https://github.com/kims07231992/LeetCode/tree/master/Tree/Easy/Path_Sum_III)
 * [Populating Next Right Pointers in Each Node](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Populating_Next_Right_Pointers)
 * [Validate Binary Search Tree](https://github.com/kims07231992/LeetCode/tree/master/Tree/Medium/Validate_Binary_Search_Tree)
