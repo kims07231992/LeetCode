@@ -20,9 +20,9 @@ namespace All_Nodes_Distance_K_in_Binary_Tree
             root.right.right = new TreeNode(8);
             root.left.right.left = new TreeNode(7);
             root.left.right.right = new TreeNode(4);
-            var K = 5;
+            var K = 2;
 
-            var result = DistanceK(root, root.left.right.left, K);
+            var result = DistanceK(root, root.left, K);
         }
 
         /// <summary>
@@ -39,29 +39,32 @@ namespace All_Nodes_Distance_K_in_Binary_Tree
             return result;
         }
 
-        private static void Search(TreeNode root, TreeNode target, Dictionary<TreeNode, int> map)
+        private static int Search(TreeNode root, TreeNode target, Dictionary<TreeNode, int> map)
         {
             if (root == null)
-                return;
+                return -1;
 
             if (root == target)
             {
                 map.Add(root, 0);
+                return 0;
             }
 
-            Search(root.left, target, map);
-            if (map.ContainsKey(root.left)) // to only map the path for target
+            int left = Search(root.left, target, map);
+            if (left >= 0) // to only map the path for target
             {
-                map.Add(root, map[root.left] + 1);
-                return;
+                map.Add(root, left + 1);
+                return left + 1;
             }
 
-            Search(root.right, target, map);
-            if (map.ContainsKey(root.right)) // to only map the path for target
+            int right = Search(root.right, target, map);
+            if (right >= 0) // to only map the path for target
             {
-                map.Add(root, map[root.right] + 1);
-                return;
+                map.Add(root, right + 1);
+                return right + 1;
             }
+
+            return -1;
         }
 
         private static void Traverse(List<int> result, Dictionary<TreeNode, int> map, TreeNode root, TreeNode target, int K, int length)

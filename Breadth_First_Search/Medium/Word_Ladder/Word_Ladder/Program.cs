@@ -16,26 +16,29 @@ namespace Word_LAdder
             var endWord = "cog";
             var wordList = new List<string> { "hot", "dot", "dog", "lot", "log", "cog" };
 
-            var result = LAdderLength(beginWord, endWord, wordList);
+            var result = LadderLength(beginWord, endWord, wordList);
         }
 
         /// <summary>
-        /// Time Complexity: O(N*M) where N is number of elements from wordList and M is length of word
+        /// Time Complexity: O(N*L) where N is number of elements from wordList and L is length of word
         /// Space Complexity: O(N)
         /// </summary>
-        private static int LAdderLength(string beginWord, string endWord, IList<string> wordList)
+        private static int LadderLength(string beginWord, string endWord, IList<string> wordList)
         {
             var seen = wordList.ToHashSet();
+            var length = 0;
             var queue = new Queue<string>();
-            int length = 1;
-
             queue.Enqueue(beginWord);
+
             while (queue.Count != 0)
             {
                 int n = queue.Count;
                 for (int i = 0; i < n; i++)
                 {
                     var target = queue.Dequeue();
+                    if (target == endWord)
+                        return ++length;
+
                     for (int j = 0; j < target.Length; j++)
                     {
                         var temp = target.ToCharArray();
@@ -45,9 +48,6 @@ namespace Word_LAdder
                             var changedTarget = new string(temp);
                             if (target != changedTarget && seen.Contains(changedTarget))
                             {
-                                if (changedTarget == endWord)
-                                    return length + 1;
-
                                 queue.Enqueue(changedTarget);
                                 seen.Remove(changedTarget);
                             }

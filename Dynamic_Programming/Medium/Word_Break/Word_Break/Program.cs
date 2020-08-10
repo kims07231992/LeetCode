@@ -23,26 +23,27 @@ namespace Word_Break
         /// </summary>
         private static bool WordBreak(string s, IList<string> wordDict)
         {
-            var dp = new bool[s.Length + 1];
-            var wordMap = wordDict.ToHashSet();
+            return WordBreak(s, wordDict.ToHashSet());
+        }
 
-            dp[0] = true;
-            for (int i = 1; i < dp.Length; i++)
+        private static bool WordBreak(string s, HashSet<string> wordDict)
+        {
+            int length = s.Length;
+            if (length == 0)
             {
-                for (int j = 0; j < i; j++)
+                return true;
+            }
+
+            for (int i = 1; i <= length; i++)
+            {
+                if (wordDict.Contains(s.Substring(0, i)) 
+                    && WordBreak(s.Substring(i), wordDict))
                 {
-                    if (dp[j] // 0 to j-1 is segmented
-                        && wordMap.Contains(s.Substring(j, i - j))) // and j to i can be segmented
-                    {
-                        dp[i] = true; // then 0 to i can be segmented
-                        break;
-                    }
+                    return true;
                 }
             }
 
-            // when last dp is true, since
-            // dp[n] means 0 to n can be segmented
-            return dp[dp.Length - 1];
+            return false;
         }
     }
 }
